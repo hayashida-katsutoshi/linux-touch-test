@@ -1,4 +1,6 @@
 ## How to Start
+1. Build linux binary
+    ```Builds/Linux/TouchTest.x86_64```
 1. Run Upload.bat
 1. Start Windows Terminal
 1. Run the following commands:

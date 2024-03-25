@@ -197,7 +197,6 @@ GameObject:
   m_Component:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
-  - component: {fileID: 519420029}
   - component: {fileID: 519420030}
   m_Layer: 0
   m_Name: Primary Camera
@@ -206,14 +205,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &519420029
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
 --- !u!114 &519420030
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -728,7 +719,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1110002191}
   - component: {fileID: 1110002190}
-  - component: {fileID: 1110002189}
   - component: {fileID: 1110002188}
   m_Layer: 0
   m_Name: Topper Camera
@@ -781,14 +771,6 @@ MonoBehaviour:
     mipBias: 0
     varianceClampScale: 0.9
     contrastAdaptiveSharpening: 0
---- !u!81 &1110002189
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1110002187}
-  m_Enabled: 1
 --- !u!20 &1110002190
 Camera:
   m_ObjectHideFlags: 0
@@ -1492,7 +1474,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1982372415}
   - component: {fileID: 1982372414}
-  - component: {fileID: 1982372413}
   - component: {fileID: 1982372412}
   m_Layer: 0
   m_Name: TouchDash Camera
@@ -1545,14 +1526,6 @@ MonoBehaviour:
     mipBias: 0
     varianceClampScale: 0.9
     contrastAdaptiveSharpening: 0
---- !u!81 &1982372413
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1982372411}
-  m_Enabled: 1
 --- !u!20 &1982372414
 Camera:
   m_ObjectHideFlags: 0
